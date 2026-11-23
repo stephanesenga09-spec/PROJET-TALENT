@@ -1,2 +1,2 @@
 # TGB-TALENT
-application de gestion de talents TGB
+application de gestion de talents TGB 2
